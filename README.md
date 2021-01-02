@@ -198,7 +198,6 @@
 
 ---
 
-* [Resume(简历)](https://zhuanlan.zhihu.com/p/20672941)
 
 
 ---
