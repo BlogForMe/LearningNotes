@@ -1,5 +1,5 @@
 # LearningNotes
-  ---
+---
 
 ## 第一部分：
 
@@ -102,7 +102,7 @@
   * [JVM类加载机制](https://github.com/BlogForMe/LearningNotes/blob/master/JavaJob/JVM/JVM类加载机制.md)
   * [Java内存区域与内存溢出](https://github.com/BlogForMe/LearningNotes/blob/master/JavaJob/JVM/Java内存区域与内存溢出.md)
   * [垃圾回收算法](https://github.com/BlogForMe/LearningNotes/blob/master/JavaJob/JVM/垃圾回收算法.md)
-* [JavaConcurrent(Java并发)](https://github.com/BlogForMe/LearningNotes/blob/master/JavaJob/JavaConcurrent/Java并发.md)
+* [JavaConcurrent(Java并发)](https://github.com/BlogForMe/LearningNotes/tree/master/JavaJob/JavaConcurrent)
   * [Java并发基础知识](https://github.com/BlogForMe/LearningNotes/blob/master/JavaJob/JavaConcurrent/Java并发基础知识.md)
   * [生产者和消费者问题](https://github.com/BlogForMe/LearningNotes/blob/master/JavaJob/JavaConcurrent/生产者和消费者问题.md)
     * [Thread和Runnable实现多线程的区别](https://github.com/BlogForMe/LearningNotes/blob/master/JavaJob/JavaConcurrent/Thread和Runnable实现多线程的区别.md) 
@@ -116,7 +116,7 @@
   * [使用wait/notify/notifyAll实现线程间通信](https://github.com/BlogForMe/LearningNotes/blob/master/JavaJob/JavaConcurrent/使用wait:notify:notifyall实现线程间通信.md)
   * [NIO](https://github.com/BlogForMe/LearningNotes/blob/master/JavaJob/JavaConcurrent/NIO.md)
 
- ---
+---
 
 
 ## 第三部分
@@ -152,7 +152,7 @@
         * [2.由两个栈组成的队列](https://github.com/BlogForMe/LearningNotes/blob/master/DataAlgorithm/Algorithm/程序员代码面试指南(左程云)/2.由两个栈组成的队列.md)
         * [3.如何仅用递归函数和栈操作逆序一个栈](https://github.com/BlogForMe/LearningNotes/blob/master/DataAlgorithm/Algorithm/程序员代码面试指南(左程云)/3.如何仅用递归函数和栈操作逆序一个栈.md)
 
- ---
+---
 
 ## 第四部分
 
@@ -165,7 +165,7 @@
     * [Linux系统的IPC](https://github.com/BlogForMe/LearningNotes/blob/master/CsNetwork/OperatingSystem/Linux系统的IPC.md)
 
 
- ---
+---
 
 
 ## 第五部分
