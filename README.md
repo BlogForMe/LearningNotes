@@ -3,9 +3,9 @@
 
 ## 第一部分：
 
+* [大厂面试题](https://github.com/BlogForMe/LearningNotes/blob/master/AndroidJob/Android/%E5%A4%A7%E5%8E%82%E9%9D%A2%E8%AF%95%E9%A2%98.md) 
 * [Android(安卓)](https://github.com/BlogForMe/LearningNotes/tree/master/AndroidJob/Android)
-
-    * [Android基础知识](https://github.com/BlogForMe/LearningNotes/blob/master/AndroidJob/Android/Android基础知识.md)
+* [Android基础知识](https://github.com/BlogForMe/LearningNotes/blob/master/AndroidJob/Android/Android基础知识.md)
     * [Android内存泄漏总结](https://github.com/BlogForMe/LearningNotes/blob/master/AndroidJob/Android/Android内存泄漏总结.md)
     * [Handler内存泄漏分析及解决](https://github.com/BlogForMe/LearningNotes/blob/master/AndroidJob/Android/Handler内存泄漏分析及解决.md)
     * [Handler、Looper、Message、MessageQueue基础流程分析](https://github.com/BlogForMe/LearningNotes/blob/master/AndroidJob/Android/线程通信基础流程分析.md)
