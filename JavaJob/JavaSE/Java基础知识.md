@@ -3,7 +3,7 @@
 
 基础
 ---
-**八种基本数据类型的大小，以及他们的封装类。**
+##### **八种基本数据类型的大小，以及他们的封装类。**
 
 八种基本数据类型，int ,double ,long ,float, short,byte,character,boolean
 
@@ -11,7 +11,7 @@
 
 ---
 
-**Switch能否用string做参数？**
+##### **Switch能否用string做参数？**
 
 在Java 5以前，switch(expr)中，expr只能是byte、short、char、int。从Java 5开始，Java中引入了枚举类型，expr也可以是enum类型，从Java 7开始，expr还可以是字符串（String），但是长整型（long）在目前所有的版本中都是不可以的。
 
@@ -91,7 +91,7 @@
 
 ---
 
-**Object有哪些公用方法？**
+##### **Object有哪些公用方法？**
 
 [http://www.cnblogs.com/yumo/p/4908315.html](http://www.cnblogs.com/yumo/p/4908315.html)
 
@@ -153,7 +153,7 @@ wait方法就是使当前线程等待该对象的锁，当前线程必须是该�
 
 ---
 
-**Java的四种引用，强弱软虚，用到的场景。**
+##### **Java的四种引用，强弱软虚，用到的场景。**
 
 JDK1.2之前只有强引用,其他几种引用都是在JDK1.2之后引入的.
 
@@ -187,7 +187,6 @@ JDK1.2之前只有强引用,其他几种引用都是在JDK1.2之后引入的.
 2. 比较两个对象的时候,首先根据他们的hashcode去hash表中找他的对象,当两个对象的hashcode相同,那么就是说他们这两个对象放在Hash表中的同一个key上,那么他们一定在这个key上的链表上。那么此时就只能根据Object的equal方法来比较这个对象是否equal。当两个对象的hashcode不同的话，肯定他们不能equal. 
 
 ---
-
 
 **String、StringBuffer与StringBuilder的区别。**
 
@@ -546,7 +545,16 @@ Queue接口：提供了几个基本方法，offer、poll、peek等。已知实�
 
 
 
+1、java 中==和 equals 和 hashCode 的区别
+ 2、int、char、long 各占多少字节数
+ 3、int 与 integer 的区别
+ 4、谈谈对 java 多态的理解
+ 5、String、StringBuffer、StringBuilder 区别
+ 6、什么是内部类？内部类的作用
+ 7、抽象类和接口区别
 
+
+https://www.jianshu.com/p/14fa0c6ed6e8
 
 
 
